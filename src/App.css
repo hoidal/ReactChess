@@ -10,7 +10,7 @@ button {
 }
 
 #board {
-  margin: 0;
+  margin: 1rem 0;
   width: 24rem;
   height: 24rem;
   border: 1px solid black;
